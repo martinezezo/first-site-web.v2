@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+h1 {
+  color: green;
+}
+
+img {
+  width: 300px;
+}
+
+h2 {
+  color: orange;
+}
+
+li {
+  color: blue;
+}
